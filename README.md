@@ -1,7 +1,7 @@
 <h1 align="center"> Aplicativo de clima </h1>
 
 <p align="center">
-Este projeto foi desenvolvido atravez de um tutorial do ASMR Programming, em sua série 100 dias de código.
+Este projeto foi desenvolvido atravez de um tutorial do ASMR Programming, em sua série 100 dias de código. <br>
 <a href="https://www.youtube.com/watch?v=iILFBGm_I9M">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 

@@ -29,23 +29,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - API openweathermap
 
-
 ## 💻 Projeto
 
 O Aplicativo de Clima é uma página web que exibe as condições climáticas atuais usando a API da openweathermap. Foi uma excelente oportunidade para reforçar conceitos e aprender novas técnicas.
 
-- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io//)
+- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io/Aplicativo-de-clima/)
 
 ## 🔍 Destaques do Aprendizado
 
 - Trabalhar com a API de clima openweathermap: Integração e manipulação de dados climáticos.
 - Aprimorar conhecimentos em JavaScript e CSS: Descoberta de novas propriedades e técnicas.
 
-## Aviso
+## ⚠️ Aviso
+
 Você precisa obter sua própria chave de API (no vídeo o @AsmrProg-YT mostra como obter!) e substituí-la no arquivo index.js na linha 8:
 
 ```javascript
-const APIKey = 'Your Api Key';
+const APIKey = "Your Api Key"
 ```
 
 ## 📝 Licença
